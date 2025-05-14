@@ -5,6 +5,7 @@ const Footer = () => {
       <footer>
       <p>&copy; Ching Yu Tseng's React project, All rights reserved</p>
       </footer>
+      <a href="mailto: eugenetseng0715@gmail.com">Contact Us</a>
              </>
     )}
 
